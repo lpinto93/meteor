@@ -29,8 +29,12 @@ Modificámos também o ficheiro “help.txt” para refletir a adição do novo 
 
 ![alt tag] (https://github.com/lpinto93/meteor/blob/devel/ESOF-Docs/resources/usage.jpg)
 
+Como resultado, o novo comando iria imprimir:
+
+![alt tag] ()
+
 ## Submissão de um Pull Request
 
-Após a implementação da feature, foi feito o [pull request](https://github.com/meteor/meteor/pull/5793) para o repositório do Github.
+Após a implementação da feature, foi feito o [pull request](https://github.com/meteor/meteor/pull/5794) para o repositório do Github.
 
 ## FEUP ESOF MIEIC

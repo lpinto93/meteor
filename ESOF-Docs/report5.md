@@ -29,9 +29,11 @@ Modificámos também o ficheiro “help.txt” para refletir a adição do novo 
 
 ![alt tag] (https://github.com/lpinto93/meteor/blob/devel/ESOF-Docs/resources/usage.jpg)
 
-Como resultado, o novo comando iria imprimir:
+Como resultado, o novo comando vai imprimir:
 
-![alt tag] ()
+![alt tag] (https://github.com/lpinto93/meteor/blob/devel/ESOF-Docs/resources/foto1.png)
+
+![alt tag] (https://github.com/lpinto93/meteor/blob/devel/ESOF-Docs/resources/foto2.png)
 
 ## Submissão de um Pull Request
 

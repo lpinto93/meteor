@@ -37,6 +37,6 @@ Como resultado, o novo comando vai imprimir:
 
 ## Submissão de um Pull Request
 
-Após a implementação da feature, foi feito o [pull request](https://github.com/meteor/meteor/pull/5794) para o repositório do Github.
+Após a implementação da feature, foi feito o [pull request](https://github.com/meteor/meteor/pull/5802) para o repositório do Github.
 
 ## FEUP ESOF MIEIC
